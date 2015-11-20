@@ -1,0 +1,15 @@
+main: com.plugin.undercovermod.First
+name: UndercoverMod
+version: 1.1
+depend: [Vault]
+commands:
+  umodon:
+    description: 
+    permission: undercovermod.togglemod
+  umodoff: 
+    description:
+    permission: undercovermod.toggleop
+  umodreg:
+    description:
+    permission: undercovermod.reg
+  
